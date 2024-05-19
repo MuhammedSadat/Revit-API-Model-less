@@ -1,0 +1,12 @@
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\bin\Debug\ProjectRevitFinal.dll
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\bin\Debug\ProjectRevitFinal.pdb
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\RevitFinal.csproj.AssemblyReference.cache
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\View\MainUi.baml
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\View\MainUi.g.cs
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\ProjectRevitFinal_MarkupCompile.cache
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\ProjectRevitFinal.g.resources
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\ProjectRevitFinal.Properties.Resources.resources
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\RevitFinal.csproj.GenerateResource.cache
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\RevitFinal.csproj.CoreCompileInputs.cache
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\ProjectRevitFinal.dll
+C:\Users\20101\Desktop\ProjectRevitFinal\ProjectRevitFinal\ProjectRevitFinal\obj\Debug\ProjectRevitFinal.pdb
